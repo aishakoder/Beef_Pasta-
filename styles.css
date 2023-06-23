@@ -16,18 +16,23 @@ section{
 
 h2{
     font-size: 40px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact;
     color: black;
     text-align: center;
 }
 
 li{
+    margin-top: 10px;
     margin-bottom: 10px;
 }
 
 footer{
     text-align: center;
-    border: 20px; 
-    color: black;
-    background-color: darkgray;
+   background-color: lightcoral;
+   color:black; 
+   padding: 10px; 
+   border-top: 1px solid white; 
+   position: fixed;
+   bottom: 0; 
+   width: 100%;
 }
