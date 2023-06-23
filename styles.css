@@ -12,18 +12,25 @@ section{
     justify-content: center;
     background-color: lightcoral;
     border: 10px;
+    width: 300px;
 }
 
-h2{
+h1, h2{
+
     font-size: 40px;
     font-family: Impact;
     color: black;
     text-align: center;
 }
 
+ul, ol{
+    text-align: center;
+}
 li{
     margin-top: 10px;
     margin-bottom: 10px;
+    display: inline-block;
+   margin: 0 10px;
 }
 
 footer{
@@ -35,4 +42,6 @@ footer{
    position: fixed;
    bottom: 0; 
    width: 100%;
+   font-size: 20px;
+   
 }
