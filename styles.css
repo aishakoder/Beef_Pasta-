@@ -1,0 +1,10 @@
+body{
+    background-color: lightgrey;
+}
+
+section{
+    margin:auto; 
+    justify-content: center;
+    background-color: lightcoral;
+    border: 10px;
+}
