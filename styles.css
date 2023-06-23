@@ -2,9 +2,32 @@ body{
     background-color: lightgrey;
 }
 
+img{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
 section{
     margin:auto; 
     justify-content: center;
     background-color: lightcoral;
     border: 10px;
+}
+
+h2{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    border: 20px; 
+    color: black;
+    background-color: darkgray;
 }
